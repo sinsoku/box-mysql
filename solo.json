@@ -7,6 +7,7 @@
     "server_debian_password" : "wercker",
     "server_root_password" : "wercker",
     "server_repl_password" : "wercker",
+    "allow_remote_root" : "true",
     "tunable" : {
       "slow_query_log" : "false",
       "query_cache_limit" : "2M",
